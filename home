@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <meta charset="utf8">
+        <title>Đây là trang web của Tài </title>
+    </head>
+    <body>
+        <h1>xin chào, rất vui vì đã ghé thăm trang web của tôi</h1>
+        <p>Đây là bài tập của</p>
+        <a href="https://fasttai.w3spaces.com/thiet-ke-web/HOME/B3/b3_bai_1.html"> Buổi 3_bài 1</a>
+    </body>
+     <br><a href="https://fasttai.w3spaces.com/thiet-ke-web/HOME/B3/b3_bai_2.html"> Buổi 3_bài 2</a>
+    </body>
+     <br><a href="https://fasttai.w3spaces.com/thiet-ke-web/HOME/B3/b3_bai_3.html"> Buổi 3_bài 3</a>
+    </body>
+     <br><a href="https://fasttai.w3spaces.com/thiet-ke-web/HOME/B3/b3_bai_4.html"> Buổi 3_bài 4</a>
+    </body>
+       <br><a href="./B3/b3_bai_5.html"> Buổi 3_bài 5</a>
+    </body>
+     <br><a href="./B3/b3_bai_6.html"> Buổi 3_bài 6</a>
+    </body>
+    <br><a href="./B3/b3_bai_7.html"> Buổi 3_bài 7</a>
+<h3><br> buổi 4<br></h3>
+<br><a href="./B4/b4_bai_1.html"> Buổi 4_bài 1</a>
+<br><a href="./B4/b4_bai_2.html"> Buổi 4_bài 2</a>
+<br><a href="./B4/b4_bai_3.html"> Buổi 4_bài 3</a>
+<br><a href="./B4/b4_bai4.html"> Buổi 4_bài 4</a>
+<br><a href="./B4/b4_bai_5.html"> Buổi 4_bài 5</a>
+
+
+
+
+    </body>
+
+ 
+    
+    
+</html>
