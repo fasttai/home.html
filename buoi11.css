@@ -1,0 +1,29 @@
+.all {
+    max-width: 2000px;
+    margin: 0 auto;
+  }
+  .bor {
+    
+    border: 1px solid #c9c9c9c9;
+    padding: 5px;
+    width: 900px;
+    border-radius: 20px;
+    display: inline-block;
+  }
+  .h1{
+    background-color: rgb(230, 230, 230);
+  }
+  h1{
+    color: red;
+  }
+  .img{
+    border: 1px solid #00000011;
+    padding: 5px;
+    float: left;
+    width: 200px;
+    height: auto;
+  }
+  .anh1 {
+    margin-left: 220px;
+    
+  }
