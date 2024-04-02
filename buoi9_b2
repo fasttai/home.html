@@ -1,0 +1,31 @@
+
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>review phim</title>
+    <link rel="stylesheet" href="review_film.css">
+ <body>
+    <div class="container">
+        <h1>review phim</h1>
+        <div class="container_inner">
+            <div class="block">
+                <img src="1.jpg" alt="">
+                <a href="#">phim kinh dị</a>
+            </div>
+            <div class="block">
+                <img src="1.jpg" alt="">
+                <a href="#">phim kinh dị</a>
+            </div>
+            <div class="block">
+                <img src="1.jpg" alt="">
+                <a href="#">phim kinh dị</a>
+            </div>
+            <div class="block">
+                <img src="1.jpg" alt="">
+                <a href="#">phim kinh dị</a>
+            </div>
+        </div>
+    </div>
+     <a href="/thietkewebsite/index.html">home</a>
+ </body>
+</html>
