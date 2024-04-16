@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập 1</title>
+    <link rel="stylesheet" href="b13.1.css">
+    <link rel="icon" type="image/png" href="https://static-zmp3.zmdcdn.me/skins/zmp3-v5.2/images/icon_zing_mp3_60.png" />
+</head>
+<body>
+    <ul>
+    <li><a href="https://zmp3-static.zmdcdn.me/skins/zmp3-v6.1/images/backgrounds/logo-dark.svg"><img src="https://zmp3-static.zmdcdn.me/skins/zmp3-v6.1/images/backgrounds/logo-dark.svg" alt="" width="200px"></a></li>
+    <li><a href="#Thư viện"><img src="music-library.png" alt="Thư viện" >Thư viện</a></li>
+    <li><a href="#Khám phá"><img src="scrubber.png" alt="">Khám phá</a></li>
+    <li><a href="#zingchart"><img src="chart.png" alt="">#zingchart</a></li>
+    <li><a href="#Radio"><img src="radio-alt.png" alt="">Radio</a><a class="a" href="default.asp" target="_blank">LIVE</a></li> 
+    <p class="gach"></p>
+    <li><a href="#Chủ đề & Thể Loại"><img src="apps (1).png" alt="">Chủ Đề & Thể Loại</a></li>
+    </ul>
+
+    
+</body>
+</html>
